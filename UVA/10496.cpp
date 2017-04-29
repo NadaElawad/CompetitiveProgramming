@@ -3,7 +3,7 @@
 	
 	Idea:
     - I try going to all cells in every order until I collect all beepers, and I take the minimum of all these solutions
-    - Manhatten distance it used since I only move in four directions
+    - Manhatten distance is used since I only move in four directions
  
  */
 
