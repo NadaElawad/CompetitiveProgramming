@@ -3,7 +3,7 @@
  
     Idea:
     - Given that the maximum element in A would be R (R<=15000), then the ORing between elements in A will not exceed 2^14 (16384) and so is their summation.
-    - Adding numbers that don't have any common 1-bits will result in a possible solution since it would be the same as adding them
+    - ORing numbers that don't have any common 1-bits will result in a possible solution since it would be the same as adding them
 */
 
 #include <vector>
